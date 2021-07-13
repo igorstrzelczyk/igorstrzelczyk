@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igorstrzelczyk
+- 👀 I’m interested in becoming a Software or Game Developer.
+- 🌱 I’m currently learning C++ to achieve that.
+- 💞️ I’m looking to collaborate on small projects enabling me to meet people of similar interests and to test my knowledge, as well as further learn and develop.
